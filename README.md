@@ -64,6 +64,7 @@ To accomplish this, I utilized **Power BI** to create insightful visualizations 
 ---
 
 **📜 Conclusion**
+
 This project provided a valuable opportunity to enhance my analytical skills and gain real-world consulting experience. I look forward to applying these insights to future projects and continuing to grow in the field of data analytics and business strategy.
 
 Thank you for checking out my project! 🚀
